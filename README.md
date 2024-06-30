@@ -4,4 +4,4 @@
 # PRESENTATION VIDEO
 
 # REFLECTION OF PROJECT
-By doing this project I had gained a lot of knowledge on statistic and it enhanced my analytical skills very well. We applied the concepts in probability and statistics course to real-life problems(our project). I had learn how to use R studio to analyse population data and I believe that it will help me a lot in the future. Besides, I am appreciate that I have wonderful members that is helpful and responsible. We manage to finish the project well by working well with each other.   
+In this project, I gained a lot of knowledge in statistics and significantly enhanced my analytical skills. We applied concepts from our probability and statistics course to real-life problems within our project. I learned how to use R Studio to analyze population data, a skill I believe will greatly benefit me in the future. Additionally, I appreciate having wonderful team members who are helpful and responsible. We successfully completed the project by working collaboratively. This experience has been immensely beneficial and will positively impact my future work.
